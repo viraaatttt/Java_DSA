@@ -1,3 +1,4 @@
+package Patterns;
 public class lecture5hw {
     public static void main(String args[]){
         int n=5;
